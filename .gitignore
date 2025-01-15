@@ -1,0 +1,4 @@
+# Ignore env file containing the grog API key
+.env
+# Ignore virtual environment
+agent_env/
