@@ -10,3 +10,5 @@ agent = Agent(
 
 agent.print_response("Generate a 16 bar verse in the style of J. cole")
 
+# This is not the actual agent but a test script for testing the connection and working
+
